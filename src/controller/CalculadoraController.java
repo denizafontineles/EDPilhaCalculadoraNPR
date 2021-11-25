@@ -5,7 +5,7 @@ import com.deniza.utils.pilha.integer.Pilha;
 public class CalculadoraController {
 	
 	public CalculadoraController() {
-		// TODO Auto-generated constructor stub
+		super()
 	}
 
 	public void insereValor(Pilha pilha, int valor) {
